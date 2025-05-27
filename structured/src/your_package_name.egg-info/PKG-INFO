@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: your_package_name
+Version: 0.1.0
+Summary: Pytest
+Author: Yashaswy Govada
+Requires-Python: >=3.7
+Dynamic: author
+Dynamic: requires-python
+Dynamic: summary
