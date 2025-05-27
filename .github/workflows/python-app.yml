@@ -23,6 +23,8 @@ jobs:
         python -m pip install --upgrade pip
         pip install pytest pytest-cov
         pip install -r structured/requirements.txt
+        cd structured
+        pip install -e ./
 
     - name: Run Pytest with coverage
       run: |
