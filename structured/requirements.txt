@@ -40,5 +40,4 @@ seaborn==0.13.2
 six==1.17.0
 threadpoolctl==3.6.0
 tzdata==2025.2
--e git+https://github.com/yashgvd/pytest-av.git@ac03a40e7547f595a6cc753748f50ecfbecdb564#egg=vehicle_utils&subdirectory=pytest/av_vehicle_utils/src
 virtualenv==20.31.2
